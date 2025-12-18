@@ -7,6 +7,6 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(demoApplication.class, args);
-		System.out.print("Hii");
+		System.out
 	}
 }
